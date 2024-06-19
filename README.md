@@ -11,3 +11,4 @@ The web page is static and does not have any interactivity or functionality. The
 Installation - 
 The user can either download or clone this repository to their local machine The user can open the index.html file in any web browser to view the web page
 
+![291659060-76cbf588-128f-4362-a344-8f021f4bcef6](https://github.com/ansh7808/Amazon-clone/assets/173156806/9400c31a-4328-4d99-a238-4d47fbdb584e)
